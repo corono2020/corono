@@ -9,4 +9,8 @@ Dort wo auf Webseiten die Bannerflächen leer bleiben spricht die Werbebranche v
 Die Idee:
 Wir sammeln hier Banner in den gängigen Standardformaten die die Grundregeln in einfacher Weise illustrieren und näher bringen. Jeder der mitmachen möchte kann die Banner hier runterladen und in seinen Adserver einbuchen. Jeder der weitere Banner erstellt hat kann sie hier ebenfalls zur Verfügung stellen. Alles was dem Ziel der Verbreitung der Message nutzt sollte hier willkommen sein.
 
+Die Banner in den verbreitetsten Standardformaten:
+
 ![Banner](https://github.com/corono2020/corono/blob/master/ressources/coroNO_banner_160x600/GIF_Banner_160x600/images/_banner_160x600_Artboard-01.gif?raw=true)
+![Banner](https://github.com/corono2020/corono/blob/master/ressources/coroNO_banner_300x250/GIF_banner_300x250/images/_banner_300x250_Artboard-01.gif?raw=true)
+![Banner](https://github.com/corono2020/corono/blob/master/ressources/coroNO_banner_728x90/GIF_Banner_728x90/images/coroNO_banner_728x90_Artboard-01.gif?raw=true)
