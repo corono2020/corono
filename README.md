@@ -1,4 +1,4 @@
-# Corona Protection Education
+# CoroNO
 
 Jeder sollte weltweit so oft wir möglich daran erinnert werden, dass er mit sehr einfachen Verhaltensänderungen mithelfen kann, die Verbreitung des Corona Virus zu verlangsamen.
 
